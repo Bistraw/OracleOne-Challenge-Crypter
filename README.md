@@ -3,9 +3,9 @@
 The challenge asks for a crypter that fallow the following parameters: 
 
 a	- 	ai
-e 	-	enter
-i 	- 	imes
-o	- 	ober
-u 	-	ufat
+<br>e 	-	enter
+<br>i 	- 	imes
+<br>o	- 	ober
+<br>u 	-	ufat
 
 those parameters were established by Oracle one - challenge one
